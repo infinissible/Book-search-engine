@@ -19,7 +19,7 @@ built with Apollo server. The app is built using the MERN stack, with a React fr
 
 ## Deployed application
 
-https://bse-0722.herokuapp.com/
+https://book-serach-engine-api.onrender.com
 
 ## Installation
 
