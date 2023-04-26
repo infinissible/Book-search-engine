@@ -19,7 +19,7 @@ built with Apollo server. The app is built using the MERN stack, with a React fr
 
 ## Deployed application
 
-https://book-serach-engine-api.onrender.com
+https://search-engine-google-book.herokuapp.com/
 
 ## Installation
 
@@ -39,4 +39,4 @@ https://book-serach-engine-api.onrender.com
 
 ## Author
 
-Jin Lee. Please visit, https://infinissible.github.io/Jinovation-react-portfolio/
+Jin Lee. Please visit, https://jinventor.com
